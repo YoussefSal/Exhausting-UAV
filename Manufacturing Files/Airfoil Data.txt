@@ -1,0 +1,17 @@
+Airfoil Name : N-81
+
+
+SPAR SLOTS :
+
+Diameter_A = Diameter_B = 12mm
+Y_A = Y_B = 5.7mm
+X_A = 47mm
+X_B = 110.9mm
+
+
+WING DATA :
+
+Root_Cord = Tip_Cord = 0.27m
+Semi_Span = 0.748m
+Sweep_Distance = 0
+Twist_Angle = 0
