@@ -1,0 +1,5 @@
+to open the CAD file first open Airframe.prt 
+
+then open each folder with it's name for example the wing folder open Wing.prt 
+
+*open using siemens nx
